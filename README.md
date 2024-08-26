@@ -29,7 +29,7 @@ To set up this project, follow these steps:
     ```sql
     CREATE DATABASE walmartSales IF NOT EXISTS;
     ```
-3. **Create Tables:** Run the SQL script provided in the `walmart_sales_analysis.sql` file to create the necessary tables and perform data analysis.
+3. **Create Tables:** Run the SQL script provided in the `SalesAnalysis.sql` file to create the necessary tables and perform data analysis.
 
 ## Database Schema
 
