@@ -19,6 +19,7 @@ This project involves analyzing sales data from Walmart to uncover insights into
 7. [Contributing](#contributing)
 8. [License](#license)
 
+
 ## Project Setup
 
 To set up this project, follow these steps:
@@ -108,6 +109,4 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-This README provides a clear overview of the project, instructions for setting it up, and details on how to use and contribute to the analysis.
