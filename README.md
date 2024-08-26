@@ -97,7 +97,7 @@ The analysis provides insights into sales performance, customer preferences, and
 
 To use this project:
 
-1. Clone the repository or download the `walmart_sales_analysis.sql` file.
+1. Clone the repository or download the `SalesAnalysis.sql` file.
 2. Set up the database as per the instructions in the [Project Setup](#project-setup) section.
 3. Run the queries to generate insights.
 
